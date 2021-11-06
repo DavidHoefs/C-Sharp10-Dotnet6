@@ -1,0 +1,16 @@
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\bin\Debug\net6.0\NullParameterChecks.exe
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\bin\Debug\net6.0\NullParameterChecks.deps.json
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\bin\Debug\net6.0\NullParameterChecks.runtimeconfig.json
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\bin\Debug\net6.0\NullParameterChecks.dll
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\bin\Debug\net6.0\ref\NullParameterChecks.dll
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\bin\Debug\net6.0\NullParameterChecks.pdb
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\obj\Debug\net6.0\NullParameterChecks.GlobalUsings.g.cs
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\obj\Debug\net6.0\NullParameterChecks.csproj.AssemblyReference.cache
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\obj\Debug\net6.0\NullParameterChecks.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\obj\Debug\net6.0\NullParameterChecks.AssemblyInfoInputs.cache
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\obj\Debug\net6.0\NullParameterChecks.AssemblyInfo.cs
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\obj\Debug\net6.0\NullParameterChecks.csproj.CoreCompileInputs.cache
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\obj\Debug\net6.0\NullParameterChecks.dll
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\obj\Debug\net6.0\ref\NullParameterChecks.dll
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\obj\Debug\net6.0\NullParameterChecks.pdb
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\NullParameterChecks\NullParameterChecks\obj\Debug\net6.0\NullParameterChecks.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\bin\Debug\net6.0\Deconstructor.exe
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\bin\Debug\net6.0\Deconstructor.deps.json
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\bin\Debug\net6.0\Deconstructor.runtimeconfig.json
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\bin\Debug\net6.0\Deconstructor.dll
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\bin\Debug\net6.0\ref\Deconstructor.dll
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\bin\Debug\net6.0\Deconstructor.pdb
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\obj\Debug\net6.0\Deconstructor.GlobalUsings.g.cs
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\obj\Debug\net6.0\Deconstructor.csproj.AssemblyReference.cache
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\obj\Debug\net6.0\Deconstructor.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\obj\Debug\net6.0\Deconstructor.AssemblyInfoInputs.cache
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\obj\Debug\net6.0\Deconstructor.AssemblyInfo.cs
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\obj\Debug\net6.0\Deconstructor.csproj.CoreCompileInputs.cache
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\obj\Debug\net6.0\Deconstructor.dll
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\obj\Debug\net6.0\ref\Deconstructor.dll
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\obj\Debug\net6.0\Deconstructor.pdb
+Z:\ProgrammingProjectExploration\_NET6_CSharp10\Deconstructor\Deconstructor\obj\Debug\net6.0\Deconstructor.genruntimeconfig.cache
